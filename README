@@ -1,0 +1,13 @@
+DE LEEUW Valérian 
+Projet Optimisation combinatoire
+
+Utilisation :
+Lancer le programme (cf commandes ci-dessous) avec les fichier de villes en paramètres. Le programme 
+s'executera ensuite. Il fournira les fichiers générés dans le dossier result.
+Pour les autres informations, consultez le fichier DE_LEEUW_rapport.pdf.
+
+Commandes (se placer dans /projet-opt-comb) :
+Compiler : 			make
+Consulter l'aide :		make help
+Executer : 			./bin/projet fichier-ville1.txt fichier-ville2.txt
+Nettoyer le projet :		make mrproper
